@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contador",
+            "console": "integratedTerminal",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "Contador_Controle_De_Fluxo_10c9f22"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "console": "integratedTerminal",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "desafio-controle-fluxo_1230ce45"
+        }
+    ]
+}
